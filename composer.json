@@ -1,0 +1,13 @@
+{
+    "name": "fghfg/fghgf",
+    "description": "dfgfdg",
+    "authors": [
+        {
+            "name": "Waqas Zeeshan",
+            "email": "w.zeshan@itg.com.kw"
+        }
+    ],
+    "require": {
+        "izal/tap-payment-php": "^0.0.3"
+    }
+}
